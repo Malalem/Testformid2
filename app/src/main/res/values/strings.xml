@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Testformid2</string>
+    <string name="imgLarge" />
+    <string name="imgDescription" />
+    <string name="btnStart" />
+    <string name="btnStop" />
+</resources>
